@@ -390,4 +390,15 @@ F 3 "~" H 9700 5050 50  0001 C CNN
 	1    9700 5050
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector:Jack-DC J?
+U 1 1 5F68DAE2
+P 2100 1500
+F 0 "J?" H 2157 1825 50  0000 C CNN
+F 1 "Jack-DC" H 2157 1734 50  0000 C CNN
+F 2 "" H 2150 1460 50  0001 C CNN
+F 3 "~" H 2150 1460 50  0001 C CNN
+	1    2100 1500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
